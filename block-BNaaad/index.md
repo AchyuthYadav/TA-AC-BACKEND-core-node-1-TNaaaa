@@ -1,4 +1,4 @@
-writeCode
+ writeCode
 
 - open REPL(in terminal)
 - execute some javascript code, for example...`(2+2)`
